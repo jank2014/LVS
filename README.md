@@ -1,4 +1,4 @@
-#LVS集及LNMP生产环境优化
+#LVS集群及LNMP生产环境优化
 #LVS简介
 LVS是Linux Virtual Server的简写，意即Linux虚拟服务器，是一个虚拟的服务器集群系统。本项目在1998年5月由章文嵩博士成立，是中国国内最早出现的自由软件项目之一。
 #LVS宗旨
